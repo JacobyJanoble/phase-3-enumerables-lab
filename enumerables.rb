@@ -72,4 +72,3 @@ def average_heat_level(spicy_foods)
   total_heat_level / spicy_foods.length
 end
 
-# test
